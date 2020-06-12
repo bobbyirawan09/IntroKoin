@@ -8,5 +8,5 @@ import java.io.Serializable
 data class NewsModelView (
     val status: String = "",
     val totalResults: Int = 0,
-    val article: List<ArticleModelView> = listOf()
+    val articles: List<ArticleModelView> = listOf()
 ): Serializable

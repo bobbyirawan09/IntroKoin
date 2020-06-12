@@ -5,6 +5,6 @@ package bobby.irawan.introkoin
  */
 object Constants {
 
-    const val URL_SEARCH = "https://newsapi.org/v2/everything?q=bitcoin&apiKey=97876d0094ed46e28aef8d496de74ce0"
+    const val URL_SEARCH = "https://newsapi.org/v2/everything?q=america&apiKey=97876d0094ed46e28aef8d496de74ce0"
     const val BASE_URL = "https://newsapi.org"
 }

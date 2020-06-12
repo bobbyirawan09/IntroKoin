@@ -54,7 +54,7 @@ class MainActivity : AppCompatActivity() {
     }
 
     private fun showData(it: NewsModelView) {
-        adapter.setNews(it.article)
+        adapter.setNews(it.articles)
     }
 
 }
